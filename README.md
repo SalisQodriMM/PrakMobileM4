@@ -1,16 +1,5 @@
 # prakmobilem4
 
-A new Flutter project.
+### MODUL IV - Control Bar Pemutar Musik dengan Expanded dan Flexible
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dengan menggunakan widget Expanded dan Flexible, kita dapat mengatur dan menyesuaikan tata letak tombol agar proporsional. Setiap tombol dapat ditampilkan dengan ukuran berbeda tanpa mengganggu tata letak tombol lainnya, karena sisa ruang akan otomatis diisi dan disesuaikan oleh Expanded dan Flexible. Kedua widget tersebut dapat dikombinasikan untuk mendistribusikan ruang secara proporsional.
